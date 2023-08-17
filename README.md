@@ -4,7 +4,7 @@
 
 | Date                                      |
 |-------------------------------------------|
-| [August 18th](#august-18th)                |
+| [August 18th](#.august-18th)                |
 | [August 19th](#august-19th)                |
 | [August 20th](#august-20th)                |
 | [August 21st](#august-21st)                |

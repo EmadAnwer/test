@@ -4,7 +4,7 @@
 
 | Date                                      |
 |-------------------------------------------|
-| [August 18th](#august-18th-august-18th)                |
+| [August 18th](#august-18th)                |
 | [August 19th](#august-19th)                |
 | [August 20th](#august-20th)                |
 | [August 21st](#august-21st)                |
@@ -14,7 +14,7 @@
 | [August 25th](#august-25th)                |
 
 
-## August 18th {#august-18th}
+## August 18th
 
 | Time                             | Session                        | Learning Ambassadors   |
 |----------------------------------|--------------------------------|------------------------|
@@ -32,18 +32,22 @@
 | 11 PM GMT - 12 AM WAT - 2 AM EAT | [Session](#aug18-session-11-pm)      | Emad, Mahmoud             |
 
 #### Sessions
-##### Session at 11 AM GMT - 12 PM WAT - 2 PM EAT {#aug18-session-11-am}
+##### Session at 11 AM GMT - 12 PM WAT - 2 PM EAT
 
 Details about the session at 11 AM GMT - 12 PM WAT - 2 PM EAT go here.
 
-## August 19th {#august-19th}
+##### Session at 12 PM GMT - 1 PM WAT - 3 PM EAT
 
-## August 20th {#august-1th}
+Details about the session at 11 AM GMT - 12 PM WAT - 2 PM EAT go here.
 
-## August 21th {#august-18th}
+## August 19th
 
-## August 22th {#august-22th}
+## August 20th
 
-## August 24th {#august-24th}
+## August 21th
 
-## August 25th {#august-25th}
+## August 22th
+
+## August 24th
+
+## August 25th

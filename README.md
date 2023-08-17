@@ -30,12 +30,21 @@
 | 10 PM GMT - 11 PM WAT - 1 AM EAT | [Session Details](#session-at-10-pm-gmt---11-pm-wat---1-am-eat) | Emad, Mahmoud             |
 | 11 PM GMT - 12 AM WAT - 2 AM EAT | [Session Details](#session-at-11-pm-gmt---12-am-wat---2-am-eat) | Emad, Mahmoud             |
 
-#### Sessions
-##### Session at 11 AM GMT - 12 PM WAT - 2 PM EAT
+# Sessions
+## Session at 11 AM GMT - 12 PM WAT - 2 PM EAT
 
-Details about the session at 11 AM GMT - 12 PM WAT - 2 PM EAT go here.
+### Agenda
+- Q&A
+- how to contribute with your friends through github ?
+- how to think about printF project ?
+- Q&A
 
-##### Session at 11 PM GMT - 12 AM WAT - 2 AM EAT
+## Slides
+[S1-Slides](https://docs.google.com/presentation/d/1AfWoSCV3OpRB9bn3c3WbpVWrJz2GVZPXuReZeazUtKQ/edit#slide=id.p1)
+
+## Resources
+[notion-resources](https://alx-feb-resources.notion.site/Month-1-b35434939a8f4a88a980081ade149c40#b68251ee2f8b42798e96728d6f17613a)
+## Session at 11 PM GMT - 12 AM WAT - 2 AM EAT
 
 Details about the session at 11 AM GMT - 12 PM WAT - 2 PM EAT go here.
 
